@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Button_CornerRadius", "Button_CornerRadius\Button_CornerRadius.csproj", "{6697729B-372A-47FF-9B14-6FDAFF2BA56A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6697729B-372A-47FF-9B14-6FDAFF2BA56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6697729B-372A-47FF-9B14-6FDAFF2BA56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6697729B-372A-47FF-9B14-6FDAFF2BA56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6697729B-372A-47FF-9B14-6FDAFF2BA56A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

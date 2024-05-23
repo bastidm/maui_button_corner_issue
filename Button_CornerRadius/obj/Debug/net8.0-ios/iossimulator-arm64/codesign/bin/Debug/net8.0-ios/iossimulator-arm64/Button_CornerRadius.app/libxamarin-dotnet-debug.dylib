@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/maxbastida/Hydra/Button_CornerRadius_Sample/Button_CornerRadius/bin/Debug/net8.0-ios/iossimulator-arm64/Button_CornerRadius.app/libxamarin-dotnet-debug.dylib
